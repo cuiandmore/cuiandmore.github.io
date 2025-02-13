@@ -58,9 +58,10 @@ nav:
   # the items displays in the upper right corner
   items:
     # these items will display as a link
-    Archives: /archives
+#    Archives: /archives
     Books: /Books
     Photos: /Photos
+    Mapify: /Mapify
     Projects: /projects
     About: /about
     # these will be automatically be an icon
